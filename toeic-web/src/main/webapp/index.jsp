@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>MamifdfsdsgdgdaSĐFGHGHJKHGFDGggd</title>
+        <title>MamifdfsdsgdgdaSggd</title>
 </head>
 <body>
-
+<span>Xin chao</span>
 </body>
 </html>
